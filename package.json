@@ -2,7 +2,7 @@
   "devDependencies": {
     "wp-pwa": "latest"
   },
-  "website":"https://diy-pwa.github.io",
+  "homepage":"https://diy-pwa.github.io",
   "scripts": {
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
