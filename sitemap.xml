@@ -2,32 +2,32 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/saving-on-gh-pages/
+            https://diy-pwa.github.io/saving-on-gh-pages/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/the-difference-between-pages-and-posts/
+            https://diy-pwa.github.io/the-difference-between-pages-and-posts/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            https://diy-pwa.github.io/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/about/
+            https://diy-pwa.github.io/about/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            https://diy-pwa.github.io/category/uncategorized/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/author/rhildred/
+            https://diy-pwa.github.io/author/rhildred/
         </loc>
     </url>
 </urlset>

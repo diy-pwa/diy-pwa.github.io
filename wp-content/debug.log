@@ -45,3 +45,5 @@
 [10-Feb-2025 16:36:50 UTC] PHP Warning:  include_once(/workspaces/diy-pwa.github.io/.wordpress/wp-content/plugins/markup-markdown/markup-markdown.php): Failed to open stream: No such file or directory in /workspaces/diy-pwa.github.io/.wordpress/wp-settings.php on line 526
 [10-Feb-2025 16:36:50 UTC] PHP Warning:  include_once(): Failed opening '/workspaces/diy-pwa.github.io/.wordpress/wp-content/plugins/markup-markdown/markup-markdown.php' for inclusion (include_path='.:') in /workspaces/diy-pwa.github.io/.wordpress/wp-settings.php on line 526
 [10-Feb-2025 16:40:36 UTC] PHP Warning:  strtotime(): Epoch doesn't fit in a PHP integer in /workspaces/diy-pwa.github.io/.wordpress/wp-admin/includes/meta-boxes.php on line 381
+[17-Feb-2025 16:38:25 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/diy-pwa.github.io/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[17-Feb-2025 16:39:02 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/diy-pwa.github.io/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
