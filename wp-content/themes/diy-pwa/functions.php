@@ -11,7 +11,7 @@ function theme_enqueue_styles() {
         array('parent-style')
     );
     wp_enqueue_script('custom_javascript', get_stylesheet_directory_uri() . '/customElements.js');
-    wp_enqueue_script('custom_javascript2', "https://diy-pwa.github.io/diy-pwa/search.js");
+    wp_enqueue_script_module('custom_javascript2', "https://diy-pwa.github.io/diy-pwa/search.js");
 }
 //
 // Your code goes below
